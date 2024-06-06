@@ -1,0 +1,16 @@
+tanggal_penjualan;nomor_faktur;jenis_kelamin_pelanggan;jenis_barang;jumlah;total Harga
+2024-05-01;F1001;Wanita;Elektronik;2;1200
+2024-05-04;F1002;Pria;Pakaian;9;1350
+2024-05-04;F1003;Wanita;Makanan;5;150
+2024-05-06;F1004;Pria;Elektronik;3;1800
+2024-05-10;F1005;Wanita;Pakaian;7;1050
+2024-05-17;F1006;Pria;Elektronik;4;2400
+2024-05-18;F1007;Pria;Makanan;3;240
+2024-05-19;F1008;Pria;Makanan;9;270
+2024-05-22;F1009;Wanita;Elektronik;1;600
+2024-05-22;F1010;Wanita;Pakaian;8;1200
+2024-05-23;F1011;Pria;Elektronik;5;3000
+2024-05-26;F1012;Wanita;Pakaian;6;900
+2024-05-29;F1013;Pria;Makanan;4;120
+2024-05-29;F1014;Wanita;Pakaian;3;450
+2024-05-31;F1015;Wanita;Pakaian;2;300
